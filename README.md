@@ -1,2 +1,1 @@
 # Polyrain-VR-1.0-FHP
-![RAINEXPLI](Images/RAINEXPLI.MOV)
